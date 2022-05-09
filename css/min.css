@@ -397,7 +397,7 @@ footer .container .media .icon:last-child {
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: red;
   text-transform: capitalize;
   text-decoration: none;
 }
